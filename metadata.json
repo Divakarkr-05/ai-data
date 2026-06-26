@@ -1,0 +1,6 @@
+{
+  "name": "DataSage AI",
+  "description": "Intelligent Data Cleaning & Insights Assistant. Preprocess datasets, generate interactive visualizations, get AI-powered insights, and chat with your data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
